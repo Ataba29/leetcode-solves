@@ -5,8 +5,8 @@ A collection of my LeetCode problem solutions organized by difficulty level.
 ## 📁 Repository Structure
 
 leetcode-solves/
-├── easy/ # Easy difficulty problems
-├── medium/ # Medium difficulty problems
+├── easy/ # Easy difficulty problems  
+├── medium/ # Medium difficulty problems  
 └── hard/ # Hard difficulty problems
 
 ## 🎯 About
