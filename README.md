@@ -17,15 +17,15 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ### Easy Problems
 
-- **Total Solved:** [45]
+- **Total Solved:** [46]
 
 ### Medium Problems
 
-- **Total Solved:** [116]
+- **Total Solved:** [118]
 
 ### Hard Problems
 
-- **Total Solved:** [28]
+- **Total Solved:** [29]
 
 ## 🛠️ Languages Used
 
