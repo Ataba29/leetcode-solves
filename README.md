@@ -17,11 +17,11 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ### Easy Problems
 
-- **Total Solved:** [46]
+- **Total Solved:** [47]
 
 ### Medium Problems
 
-- **Total Solved:** [118]
+- **Total Solved:** [121]
 
 ### Hard Problems
 
