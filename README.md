@@ -17,7 +17,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ### Easy Problems
 
-- **Total Solved:** [54]
+- **Total Solved:** [55]
 
 ### Medium Problems
 
