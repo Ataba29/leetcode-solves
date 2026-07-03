@@ -25,7 +25,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ### Hard Problems
 
-- **Total Solved:** [31]
+- **Total Solved:** [32]
 
 ## 🛠️ Languages Used
 
