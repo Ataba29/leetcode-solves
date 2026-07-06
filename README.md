@@ -21,7 +21,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ### Medium Problems
 
-- **Total Solved:** [132]
+- **Total Solved:** [133]
 
 ### Hard Problems
 
